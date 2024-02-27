@@ -1,4 +1,4 @@
-path: '/content/gdrive/My Drive/' # finish with rest of path, dataset root dir
+path: '/content/gdrive/My Drive/ObjectDetectionYolov8GoogleColab' # finish with rest of path, dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/val  # val images (relative to 'path')
 
