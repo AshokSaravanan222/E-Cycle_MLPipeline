@@ -1,8 +1,0 @@
-path: '/content/gdrive/My Drive/ObjectDetectionYolov8GoogleColab/data' # finish with rest of path, dataset root dir
-train: /content/gdrive/My Drive/ObjectDetectionYolov8GoogleColab/data/images/train
-val: /content/gdrive/My Drive/ObjectDetectionYolov8GoogleColab/data/images/val
-
-labels: /content/gdrive/My Drive/ObjectDetectionYolov8GoogleColab/data/labels/train  # train labels (relative to 'path')
-
-names:
-  0: Tin can
